@@ -1,0 +1,1 @@
+ zawartosc  plik6.txt
